@@ -5,7 +5,7 @@
     <AssemblyName>App</AssemblyName>
   </PropertyGroup>
   <ItemGroup>
-    <PackageReference Include="akka" Version="1.4.5" />
+    <PackageReference Include="akka" Version="1.4.46" />
     <PackageReference Include="Meadow.Foundation" Version="0.*" />
   </ItemGroup>
 </Project>
